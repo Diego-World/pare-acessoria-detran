@@ -69,8 +69,9 @@ footer {
 .carousel-text {
   width: 100%; /* Ajuste a largura conforme necessário */
   margin-bottom: 20px;
-  color: #FFF;
+  color: #ffffff;
   font-size: 25px;
+  font-weight: bold;
 }
 
 .foto {

@@ -51,10 +51,12 @@ const App = () => {
             <h1>Paré assessoria de Trânsito</h1>
             <h2>Samuel Paré</h2>
             <p>
-              O gato miau é um gato que gosta de miar, ele mia no campo de
-              batalha ajudando seus companheiros gatos a lutar na guerra.
-              <br></br>Ele tem esse olhar por conta das coisas que viu em suas
-              batalhas, o olhar de mil milhas
+              Consultoria de trânsito especializada e com profissionais de 20 anos de experiência no mercado.
+            </p>
+            <p>Serviços de transferência veicular, recurso de multas, aulas para habilitados e consultoria de trânsito.</p>
+            <p>
+              Fale conosco<br></br>
+            <a href="https://api.whatsapp.com/send?phone=5511914803049&text=Ol%C3%A1,%20gostaria%20de%20consultoria%20para:%20%20" color="White" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/598px-WhatsApp_icon.png" style={{ width: '42px', height: '42px' }}></img></a>
             </p>
           </div>
           <div className="foto">
